@@ -37,6 +37,8 @@ projects[wordpress_migrate][version] = "2.2"
 
 projects[wysiwyg][version] = "2.2"
 
+projects[smtp][version] = "1.0"
+
 ; Themes
 projects[adaptivetheme][version] = "3.1"
 
